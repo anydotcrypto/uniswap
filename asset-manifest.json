@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.f1fee340.chunk.js": "/uniswap/static/js/0.f1fee340.chunk.js",
     "static/js/0.f1fee340.chunk.js.map": "/uniswap/static/js/0.f1fee340.chunk.js.map",
-    "main.js": "/uniswap/static/js/main.90b66e63.chunk.js",
-    "main.js.map": "/uniswap/static/js/main.90b66e63.chunk.js.map",
+    "main.js": "/uniswap/static/js/main.3345346a.chunk.js",
+    "main.js.map": "/uniswap/static/js/main.3345346a.chunk.js.map",
     "runtime-main.js": "/uniswap/static/js/runtime-main.74ad6a2d.js",
     "runtime-main.js.map": "/uniswap/static/js/runtime-main.74ad6a2d.js.map",
     "static/css/3.0beae336.chunk.css": "/uniswap/static/css/3.0beae336.chunk.css",
@@ -20,7 +20,7 @@
     "static/js/8.ca7ef1bd.chunk.js": "/uniswap/static/js/8.ca7ef1bd.chunk.js",
     "static/js/8.ca7ef1bd.chunk.js.map": "/uniswap/static/js/8.ca7ef1bd.chunk.js.map",
     "index.html": "/uniswap/index.html",
-    "precache-manifest.d212875ff7bbe54339d292e385bf739f.js": "/uniswap/precache-manifest.d212875ff7bbe54339d292e385bf739f.js",
+    "precache-manifest.15519e3303fcb9c6b6258e0fc752ced9.js": "/uniswap/precache-manifest.15519e3303fcb9c6b6258e0fc752ced9.js",
     "service-worker.js": "/uniswap/service-worker.js",
     "static/css/3.0beae336.chunk.css.map": "/uniswap/static/css/3.0beae336.chunk.css.map",
     "static/js/3.f2ef7b86.chunk.js.LICENSE.txt": "/uniswap/static/js/3.f2ef7b86.chunk.js.LICENSE.txt",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.74ad6a2d.js",
     "static/css/3.0beae336.chunk.css",
     "static/js/3.f2ef7b86.chunk.js",
-    "static/js/main.90b66e63.chunk.js"
+    "static/js/main.3345346a.chunk.js"
   ]
 }
